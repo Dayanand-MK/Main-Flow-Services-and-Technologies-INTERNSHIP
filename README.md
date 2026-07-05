@@ -28,15 +28,3 @@ My main goals during this internship are to:
 2) Gain real-world experience working on diverse projects.
 3) Collaborate with the fantastic team at **Main Flow Services and Technologies**.
 4) Share my learning journey and progress with the community.
-
-# Connect with Me:
-
-[LinkedIn](www.linkedin.com/in/dayanand-mk)
-
-Follow Main Flow Services and Technologies:
-
-[Website](www.mainflow.in)
-
-[LinkedIn](https://www.linkedin.com/company/main-flow-services-and-technologies/?originalSubdomain=in)
-
-Happy coding and stay awesome! 🚀✨
